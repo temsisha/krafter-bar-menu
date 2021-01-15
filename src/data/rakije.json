@@ -1,0 +1,94 @@
+[
+    {
+        "product": "Dunja / Quince",
+        "productName": "Gorda",
+        "volume": "40",
+        "price": 145,
+        "description": "Voćna rakija / Fruit Rakija"
+    },
+    {
+        "product": "Šljiva / Plum",
+        "productName": "Gorda",
+        "volume": "40",
+        "price": 145,
+        "description": "Voćna rakija Šljivovica / Fruit Rakija Šljivovica"
+    },
+    {
+        "product": "Kajsija / Apricot",
+        "productName": "Gorda",
+        "volume": "40",
+        "price": 145,
+        "description": "Voćna rakija / Fruit Rakija"
+    },
+    {
+        "product": "Loza",
+        "productName": "Kruna",
+        "volume": "50",
+        "price": 145,
+        "description": "Lozova Crnogorska Rakija"
+    },
+    {
+        "product": "Dunja / Quince",
+        "productName": "Manastir Kovilj",
+        "volume": "43",
+        "price": 145,
+        "description": "Dunjevača Rakija Manastir Kovilj"
+    },
+    {
+        "product": "Viljamovka / William pear rakija",
+        "productName": "Manastir Kovilj",
+        "volume": "40",
+        "price": 145,
+        "description": "Viljamovka Rakija Manastir Kovilj"
+    },
+    {
+        "product": "Kajsija / Apricot",
+        "productName": "Manastir Kovilj",
+        "volume": "40",
+        "price": 145,
+        "description": "Manastir Kovilj Kajsija"
+    },
+    {
+        "product": "Šljiva / Plum",
+        "productName": "Jezdić Rakija",
+        "volume": "43",
+        "price": 145,
+        "description": "Jezdić Rakija"
+    },
+    {
+        "product": "Kruška / Pear",
+        "productName": "Jezdić Rakija",
+        "volume": "40",
+        "price": 145,
+        "description": "Jezdić Rakija"
+    },
+    {
+        "product": "Jabuka / Apple",
+        "productName": "Markova Destilerija",
+        "volume": "40",
+        "price": 145,
+        "description": "Markova Destilerija"
+    },
+    {
+        "product": "Šljiva / Plum",
+        "productName": "Čedina",
+        "volume": "42",
+        "price": 145,
+        "description": "Prepečenica"
+    },
+    {
+        "product": "Šljiva 12 / Plum 12",
+        "productName": "Čedina",
+        "volume": "42,5",
+        "price": 145,
+        "description": "Stara Prepečenica 12"
+    },
+    {
+        "product": "Medena / Honey",
+        "productName": "Čedina",
+        "volume": "38",
+        "price": 145,
+        "description": "Čedina Medena"
+    }
+    
+]

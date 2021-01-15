@@ -1,0 +1,128 @@
+[
+    {
+        "product": "Rum",
+        "productName": "Captain Morgan",
+        "price": 145,
+        "description": "Rum Spiced Gold Captain Morgan 0.7l"
+    },
+    {
+        "product": "Vodka",
+        "productName": "Smirnoff",
+        "volume": "37.5",
+        "price": 145,
+        "description": "Vodka Smirnoff Red 0.7l"
+    },
+    {
+        "product": "Gin",
+        "productName": "Tanqueray",
+        "volume": "47.3",
+        "price": 145,
+        "description": "London Dry Gin"
+    },
+    {
+        "product": "Gin",
+        "productName": "The London No.1",
+        "volume": "40",
+        "price": 145,
+        "description": "Original Blue Gin"
+    },
+    {
+        "product": "Gin",
+        "productName": "Ghost Town",
+        "volume": "42",
+        "price": 145,
+        "description": "Craft Dry Gin"
+    },
+    {
+        "product": "Gin",
+        "productName": "Intruder",
+        "volume": "40",
+        "price": 145,
+        "description": "Double Distilled GIN"
+    },
+    {
+        "product": "Tequila",
+        "productName": "Jose Cuervo",
+        "volume": "38",
+        "price": 145,
+        "description": "Jose Cuervo Tequila Gold "
+    },
+    {
+        "product": "Whisky",
+        "productName": "J&B",
+        "volume": "40",
+        "price": 145,
+        "description": "Justerini & Brooks"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Johnnie Walker Red Rye",
+        "volume": "40",
+        "price": 145,
+        "description": "Blended Scotch"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Johnnie Walker Black Label",
+        "volume": "40",
+        "price": 145,
+        "description": "Blended Malt Scotch"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Jameson",
+        "volume": "40",
+        "price": 145,
+        "description": "Triple Distilled Irish Whiskey"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Nomad Outland Whisky",
+        "volume": "41.3",
+        "price": 145,
+        "description": "Blended Whisky"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Nikola Car",
+        "volume": "40",
+        "price": 145,
+        "description": "Single Malt"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Two Doves",
+        "volume": "40",
+        "price": 145,
+        "description": "Single Malt"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Lagavulin 16 Years Old",
+        "volume": "43",
+        "price": 145,
+        "description": "Islay Single Malt"
+    },
+    {
+        "product": "Whisky",
+        "productName": "Jack Daniels",
+        "volume": "40",
+        "price": 145,
+        "description": "Old Number 7"
+    },
+    {
+        "product": "Bourbon",
+        "productName": "Bulleit",
+        "volume": "45",
+        "price": 145,
+        "description": "Frontier Whisky"
+    },
+    {
+        "product": "Liker / Liqueur",
+        "productName": "Ramazzotti",
+        "volume": "30",
+        "price": 145,
+        "description": "Amaro Ramazzotti"
+    }
+    
+]

@@ -1,0 +1,218 @@
+[
+    {
+      "product": "Kabinet",
+      "productName": "Kolaboracija 02 Vintage",
+      "type": "Stout",
+      "volume": "11.8",
+      "price": 295,
+      "description": "IBU 40 | EBC 110"
+    },
+    {
+      "product": "Kabinet",
+      "productName": "Super Nova",
+      "type": "IPA",
+      "volume": "6.8",
+      "price": 295,
+      "description": "51 IBU | 20 EBC"
+    },
+    {
+      "product": "Kabinet",
+      "productName": "BonBon",
+      "type": "Stout",
+      "volume": "9.0",
+      "price": 295,
+      "description": "40 IBU | 243 EBC"
+    },
+    {
+      "product": "Brouwerij Van Steenberge",
+      "productName": "Gulden Draak Classic",
+      "type": "Belgian Strong Dark Ale",
+      "volume": "10.5",
+      "price": 295,
+      "description": "30 IBU"
+    },
+    {
+      "product": "And Union",
+      "productName": "Sunday",
+      "type": "Easy Pale Ale",
+      "volume": "5.5",
+      "price": 295,
+      "description": "33 IBU"
+    },
+    {
+      "product": "And Union",
+      "productName": "Friday",
+      "type": "IPA - American",
+      "volume": "6.5",
+      "price": 295,
+      "description": "55 IBU"
+    },
+    {
+      "product": "Bierbrouwerij De Koningshoeven",
+      "productName": "La Trappe Blond",
+      "type": "Belgian Blonde",
+      "volume": "6.5",
+      "price": 295,
+      "description": "20 IBU"
+    },
+    {
+      "product": "Bierbrouwerij De Koningshoeven",
+      "productName": "La Trappe Tripel",
+      "type": "Belgian Tripel",
+      "volume": "8",
+      "price": 295,
+      "description": "27 IBU"
+    },
+    {
+      "product": "Bierbrouwerij De Koningshoeven",
+      "productName": "La Trappe Quadrupel",
+      "type": "Belgian Quadrupel",
+      "volume": "10",
+      "price": 295,
+      "description": "22 IBU"
+    },
+    {
+      "product": "Bierbrouwerij De Koningshoeven",
+      "productName": "La Trappe Bockbier",
+      "type": "Bock - Single / Traditional",
+      "volume": "7",
+      "price": 295,
+      "description": "38 IBU"
+    },
+    {
+      "product": "Huyghe Brewery",
+      "productName": "Delirium Tremens",
+      "type": "Belgian Strong Golden Ale",
+      "volume": "8.5",
+      "price": 295,
+      "description": "26 IBU"
+    },
+    {
+      "product": "Huyghe Brewery",
+      "productName": "Floris Framboise",
+      "type": "Fruit Beer",
+      "volume": "3.6",
+      "price": 295,
+      "description": "No IBU"
+    },
+    {
+      "product": "Huyghe Brewery",
+      "productName": "Delirium Red",
+      "type": "Fruit Beer",
+      "volume": "8",
+      "price": 295,
+      "description": "10 IBU"
+    },
+    {
+      "product": "Huyghe Brewery",
+      "productName": "La Guillotine",
+      "type": "Belgian Strong Golden Ale",
+      "volume": "8.5",
+      "price": 295,
+      "description": "No IBU"
+    },
+    {
+      "product": "Birra Del Borgo",
+      "productName": "ReAle",
+      "type": "IPA - Red",
+      "volume": "6.4",
+      "price": 295,
+      "description": "41 IBU"
+    },
+    {
+      "product": "Birra Del Borgo",
+      "productName": "Duchessa",
+      "type": "Farmhouse Ale - Saison",
+      "volume": "5.8",
+      "price": 295,
+      "description": "21 IBU"
+    },
+    {
+      "product": "Birra Del Borgo",
+      "productName": "My Antonia",
+      "type": "Pilsner - Imperial / Double",
+      "volume": "7.5",
+      "price": 295,
+      "description": "76 IBU | Collaboration with Dogfish Head Craft Brewery"
+    },
+    {
+      "product": "Dogma Brewery",
+      "productName": "Albino",
+      "type": "IPA - White",
+      "volume": "6.5",
+      "price": 295,
+      "description": "60 IBU"
+    },
+    {
+      "product": "Dogma Brewery",
+      "productName": "Svetionik",
+      "type": "Pale Ale - American",
+      "volume": "5.5",
+      "price": 295,
+      "description": "35 IBU"
+    },
+    {
+      "product": "Dogma Brewery",
+      "productName": "Crna Krava",
+      "type": "Stout - Milk / Sweet",
+      "volume": "5",
+      "price": 295,
+      "description": "20 IBU"
+    },
+    {
+      "product": "Dilemma",
+      "productName": "Hefeweizen Schwarz",
+      "type": "Dunkelweizen",
+      "volume": "5.3",
+      "price": 295,
+      "description": "No IBU"
+    },
+    {
+      "product": "Dilemma",
+      "productName": "Alaskan Winter",
+      "type": "Winter Ale",
+      "volume": "5.3",
+      "price": 295,
+      "description": "No IBU"
+    },
+    {
+      "product": "Dilemma",
+      "productName": "Braggot",
+      "type": "Mead - Braggot",
+      "volume": "7",
+      "price": 295,
+      "description": "No IBU"
+    },
+    {
+      "product": "Memminger Brauerei",
+      "productName": "Memminger Weißbier",
+      "type": "Hefeweizen",
+      "volume": "5.1",
+      "price": 295,
+      "description": "No IBU"
+    },
+    {
+      "product": "Bayerische Staatsbrauerei Weihenstephan",
+      "productName": "Weihenstephaner Hefeweissbier",
+      "type": "Hefeweizen",
+      "volume": "5.4",
+      "price": 295,
+      "description": "14 IBU"
+    },
+    {
+      "product": "Primátor",
+      "productName": "Premium",
+      "type": "Pilsner - Czech",
+      "volume": "5",
+      "price": 295,
+      "description": "24 IBU"
+    },
+    {
+      "product": "Primátor",
+      "productName": "Weizen",
+      "type": "Hefeweizen",
+      "volume": "4.8",
+      "price": 295,
+      "description": "14 IBU"
+    }
+  ]

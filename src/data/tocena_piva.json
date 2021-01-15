@@ -1,0 +1,98 @@
+[
+  {
+    "product": "Sindikat",
+    "productName": "Desetka",
+    "type": "Pilsner",
+    "volume": "6.5",
+    "price": 295,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Kabinet",
+    "productName": "To the Moon and Back",
+    "type": "IPA",
+    "volume": "6.5",
+    "price": 365,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Dogma",
+    "productName": "Hoptopod",
+    "type": "IPA",
+    "volume": "6.5",
+    "price": 395,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Sindikat",
+    "productName": "Darker",
+    "type": "Stout",
+    "volume": "6.5",
+    "price": 392,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Sindikat",
+    "productName": "Easy Rider",
+    "type": "Ipa",
+    "volume": "4.5",
+    "price": 365,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Crow",
+    "productName": "Caiman",
+    "type": "APA",
+    "volume": "6.5",
+    "price": 392,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Sindikat",
+    "productName": "Desetka",
+    "type": "Pilsner",
+    "volume": "4.4",
+    "price": 295,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Kabinet",
+    "productName": "To the Moon and Back",
+    "type": "IPA",
+    "volume": "6.5",
+    "price": 365,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Dogma",
+    "productName": "Hoptopod",
+    "type": "IPA",
+    "volume": "6.5",
+    "price": 395,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Sindikat",
+    "productName": "Darker",
+    "type": "Stout",
+    "volume": "6.5",
+    "price": 392,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Sindikat",
+    "productName": "Easy Rider",
+    "type": "Ipa",
+    "volume": "4.5",
+    "price": 365,
+    "description": "14 IBU"
+  },
+  {
+    "product": "Crow",
+    "productName": "Caiman",
+    "type": "APA",
+    "volume": "6.5",
+    "price": 392,
+    "description": "14 IBU"
+  }
+]

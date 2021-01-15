@@ -1,0 +1,39 @@
+[
+    {
+        "product": "Sauvignon Blank 0.7",
+        "productName": "Chichateau",
+        "volume": "13",
+        "price": 1960,
+        "description": "Belo Vino / White wine"
+    },
+    {
+        "product": "Fabula Mala 0.7",
+        "productName": "Chichateau",
+        "volume": "40",
+        "price": 1960,
+        "description": "Crveno Vino / Red Wine"
+    },
+    {
+        "product": "Pink Punk 0.7",
+        "productName": "Chichateaua",
+        "volume": "40",
+        "price": 1960,
+        "description": "Roze Vino / Rose Wine"
+    },
+    {
+        "product": "Prosecco 0.7",
+        "productName": "Masottina",
+        "volume": "50",
+        "price": 1960,
+        "description": "Penušavo vino / Sparkling Wine"
+    },
+    {
+        "product": "Vino Kuce 0.2",
+        "productName": "Vinarija Matalj",
+        "volume": "50",
+        "price": 295,
+        "description": "Belo vino, Crveno vino, Roze Vino / White wine, Red wine, Rose wine"
+    }
+    
+    
+]

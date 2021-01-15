@@ -1,0 +1,39 @@
+[
+    {
+        "product": "Espresso",
+        "productName": "Tierra",
+        "price": 145,
+        "description": "100% Arabica"
+    },
+    {
+        "product": "Espresso sa mlekom / with milk",
+        "productName": "Tierra",
+        "price": 145,
+        "description": "100% Arabica"
+    },
+    {
+        "product": "Espresso Americano",
+        "productName": "Tierra",
+        "price": 145,
+        "description": "100% Arabica"
+    },
+    {
+        "product": "Iced Latte",
+        "productName": "Tierra",
+        "price": 145,
+        "description": "100% Arabica"
+    },
+    {
+        "product": "Cappuccino",
+        "productName": "Tierra",
+        "price": 145,
+        "description": "100% Arabica"
+    },
+    {
+        "product": "Čaj / Tea",
+        "productName": "Althaus",
+        "price": 145,
+        "description": "Nana, Kamilica, Crni, Zeleni, Persijska Jabuka, Šumsko Voće (Mint, Chamomile, Earl Grey, Green Tea, Persian Apple, Wild Berries)"
+    }
+    
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "product": "Voda / Water",
+        "productName": "Ne gazirana / Still Water",
+        "price": 145,
+        "description": "Aqua Viva"
+    },
+    {
+        "product": "Voda / Water",
+        "productName": "Gazirana / Sparkling Water",
+        "price": 145,
+        "description": "Knjaz Miloš"
+    },
+    {
+        "product": "Tonic",
+        "productName": "Fever Tree",
+        "price": 145,
+        "description": "Indian, Rose, Mediterranean"
+    },
+    {
+        "product": "Tonic",
+        "productName": "Fentimans",
+        "price": 145,
+        "description": "Ginger Ale, Ginger Beer, Premium Indian Tonic"
+    },
+    {
+        "product": "Gazirani Sokovi / Sparkling Drink",
+        "productName": "San Pellegrino",
+        "price": 145,
+        "description": "Aranciata, Aranciata Rosa"
+    },
+    {
+        "product": "Ceđeni Sokovi / Squeezed Juices",
+        "price": 145,
+        "description": "Limun, Narandža, Grejp (Lemon, Orange, Grapefruit)"
+    },
+    {
+        "product": "Flaširani Sokovi / Bottled Juices",
+        "productName": "Go G",
+        "price": 145,
+        "description": "Jabuka, Malina (Apple, Raspberry)"
+    },
+    {
+        "product": "Limunade / Lemonade",
+        "productName": "Homemade",
+        "price": 145,
+        "description": "Limun, Đumbir, Malina, Nana (Lemon, Ginger, Raspberry, Mint)"
+    },
+    {
+        "product": "Iced Tea",
+        "productName": "Homemade",
+        "price": 145,
+        "description": "Mohito Iced Tea, Garden Iced Tea"
+    },
+    {
+        "product": "Pradajz Sok / Tomato Juice",
+        "productName": "Gurman",
+        "price": 145,
+        "description": "100%"
+    }
+    
+]
