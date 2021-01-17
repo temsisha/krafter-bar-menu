@@ -214,5 +214,13 @@
       "volume": "4.8",
       "price": 295,
       "description": "14 IBU"
+    },
+    {
+      "product": "Primátor",
+      "productName": "Weizen",
+      "type": "Hefeweizen",
+      "volume": "4.8",
+      "price": 295,
+      "description": "14 IBU"
     }
   ]
